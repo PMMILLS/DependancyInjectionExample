@@ -1,0 +1,8 @@
+C:\Users\pmills\source\Repos\DependancyInjectionExample\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.deps.json
+C:\Users\pmills\source\Repos\DependancyInjectionExample\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+C:\Users\pmills\source\Repos\DependancyInjectionExample\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+C:\Users\pmills\source\Repos\DependancyInjectionExample\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\pmills\source\Repos\DependancyInjectionExample\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\pmills\source\Repos\DependancyInjectionExample\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfo.cs
+C:\Users\pmills\source\Repos\DependancyInjectionExample\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.dll
+C:\Users\pmills\source\Repos\DependancyInjectionExample\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.pdb
